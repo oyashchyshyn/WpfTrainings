@@ -14,7 +14,7 @@ namespace ChatApp.Services
                 listContacts.Add(new ContactModel
                 {
                     UserName = $"Allison {i}",
-                    ImageSource = "https://i.imgur.com/yMWvLXd.png"
+                    ImageSource = "https://i.imgur.com/i2szTsp.png"
                 });
             }
 

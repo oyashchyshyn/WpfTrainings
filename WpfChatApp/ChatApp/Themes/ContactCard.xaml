@@ -24,8 +24,8 @@
                             </Ellipse>
 
                             <StackPanel>
-                                <Label Content="{Binding UserName}" />
-                                <Label Content="{Binding LastMessage}" />
+                                <Label Content="{Binding UserName}" Foreground="White" />
+                                <Label Content="{Binding LastMessage}" Foreground="White" />
                             </StackPanel>
 
                         </StackPanel>
